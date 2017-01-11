@@ -1,0 +1,53 @@
+body {
+    padding-top: 50px;
+}
+
+
+#headerWrapper {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height: 600px;
+    background-image: url(../images/head/interior2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 658px;
+    background-position: top center;
+    background-attachment: fixed; 
+}
+
+
+#logo {    
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    background-image: url(../images/logo.png);
+    background-repeat: no-repeat;
+    background-size: 500px 172px;
+    background-position: center;
+    top: 40%;
+    margin-top: -85px;
+}
+
+.thumb {
+    width: auto;
+    height: 200px;
+}
+
+#footer {
+    margin-top: 50px;
+}
+
+img.details {
+    width: 33%;
+    margin: 15px auto;
+}
+
+#add-product-btn {
+	margin-top: -35px;
+}
+
+   
+
+    
+
